@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Rowland and this is my brain vault!
+
+> I am a senior in college studying computer science. I'm an interested in many topics and application ranging from machine learning, game design, and robotic and hobby electronics. I am excited to be finishing my undergrad studyies and see what I can accomplish. 
+
+- 🌱 I’m currently learning about web development and the many things I can do with it.
+- ⚡ Fun fact: along with my degree in computer science I also have a deep love for the arts and am also working on a degree in music. 
 
 <!--
 **ZR0W/ZR0W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
