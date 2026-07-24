@@ -1,8 +1,8 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="">Rowland Zhang</a></b>
+        <samp>&gt; Hey there! I am
+                <b><a target="_blank" href="https://linkedin.com/in/rowland-z">Rowland Zhang</a></b>
         </samp>
 </h3>
 
@@ -18,7 +18,7 @@
 
 <p align="center">
  <a href="https://linkedin.com/in/rowland-z" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
  </a>
 </p>
 <br />
@@ -31,7 +31,7 @@
   
  ✌️ &emsp; Enjoy writing code and learning about tech <br/><br/>
  ❤️ &emsp; Loves Music, Art, and Staying Active<br/><br/>
- 🔭 &emsp; Working on a project for lighting path generation<br/><br/>
+ 🔭 &emsp; Building an MCP server connecting Freshdesk + Claude for AI-assisted customer service<br/><br/>
  🌱 &emsp; Learning React<br/><br/>
  📧 &emsp; Reach me anytime: rowlandz@outlook.com<br/><br/>
 
@@ -55,18 +55,20 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
 <br/>
 
 ## My Repos
 
 <p align="left">
-  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/ZR0W?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 
-[![Rolwand's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZR0W&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rowland's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZR0W&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **ZR0W/ZR0W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
